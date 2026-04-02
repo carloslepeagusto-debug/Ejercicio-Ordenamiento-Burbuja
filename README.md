@@ -1,7 +1,12 @@
-En este ejercicio se reforzo el uso de arrays, ciclos (for, do-while), condicionales y el método de ordenamiento burbuja.
-Se crea un archivo HTML con la estructura básica de un documento web.
-Se crea el archivo app.js y enlázalo al HTML con <script src="app.js"></script>.
-Utilización de parseFloat().
-Utilización de array.push().
-Determinar el mayor valor con array[array.length - 1] y el menor con array[0].
-Se muestra el resultado por pantalla con document.write() o alert().
+Desarrollo
+Se crea un archivo HTML con la estructura básica.
+Se crea el archivo app.js y se enlaza al HTML mediante <script src="app.js"></script>.
+Se solicitan tres números al usuario.
+Se utilizan:
+parseFloat() para convertir los valores numéricos.
+array.push() para almacenar los datos en un arreglo.
+Ordenamiento burbuja para ordenar los valores.
+Se obtiene:
+El menor con array[0]
+El mayor con array[array.length - 1]
+Se muestran los resultados mediante document.write() o alert().
